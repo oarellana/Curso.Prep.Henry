@@ -1,0 +1,7 @@
+> Variables: Son como "cajas" que nos permiten guardar algo para ser utilizado más tarde.
+> Strings: Es la denominación que le da JS a las palabras. Estas deben estar siempre entre comillas sencillas o dobles.
+> Funciones: Nos permiten realizar calculos o cambios a varias variables. 
+> argumentos: es lo que queremos que la función haga.
+>`return`: nos permite retornar el resultado de la función
+> Declaraciones `if`: nos permite realizar comparaciones o cumplimiento de una condición para dar como resultado verdadero o falso
+> Valores booleanos (`true`, `false`): Son utilizados en JS para significar si es verdadero o falso
