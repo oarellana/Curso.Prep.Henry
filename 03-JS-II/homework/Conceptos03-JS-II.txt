@@ -1,0 +1,4 @@
+for: es utilizado para realizar tareas repetitivas y cumplir con el concepto de Code DRY.
+&&: es el operador logíco para "Y" o "AND"; evalua las expresiones y retorna True, solo si las dos expreciones son verdaderas. Si una expresión o ambas son falsas retorna false.
+||: es el operador lógico para "O" o "OR"; evalua las expresiones y retorna True si una o ambas expresiones son verdaderas. Retorna False, si ambas expresiones son falsas.
+!: es el operador lógico para "NO" o "NOT"; este operador devolvera el valor booleano opuesto a lo que se pasa.
