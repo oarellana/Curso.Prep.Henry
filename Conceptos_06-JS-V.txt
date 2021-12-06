@@ -1,0 +1,2 @@
+* `prototype`: Todos los objetos tienen una referencia a otro objeto llamado prototype. este nos permite que varios objetos puedan acceder al mismo método sin necesidad de escribirlo varias veces.
+* _Constructors_ (de Clases): Son como fabricas que nos permiten crear objetos

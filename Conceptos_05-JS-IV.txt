@@ -1,0 +1,6 @@
+Objetos: Los objetos son muy parcidos a los arrays, pero los objetos a diferencia de los arrays, no trabajan con indices, trabajan con un concepto de clave : valor.
+Propiedades: son las mismas claves de un objeto.
+Métodos: son las funciones que se realizan en un objeto.
+Bucle `for…in`: Nos sirve para iterar entre los valres de un objeto. Se declara una variable y la palabra clave "in" y luego el nombre del objeto.
+Notación de puntos vs notación de corchetes: La notación de puntos podemos llamar el nombre del objeto un punto (.) y el nombre de la clave.
+        mientras que la notación por corchetes es como llamar un elemento de un array. con corchetes se debe usar un string o numero, o una variable que apunte a un string o numero

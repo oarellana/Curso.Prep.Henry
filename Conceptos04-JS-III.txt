@@ -1,0 +1,1 @@
+Arrays: Son cajas más grandes que las variables, en las cuales nos permiten almacenar datos de diferentes tipos como Strings, Booleanos, numeros, e inclusive otras cajas (arrays.)
